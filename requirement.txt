@@ -1,8 +1,6 @@
-streamlit>=1.27.0
-pandas>=1.3.5
-google-generativeai>=0.3.0
-Pillow>=9.0.0
-langchain>=0.1.0
-langchain-groq>=0.1.0
-python-csv>=0.0.13
-difflib-sequences>=1.0.0
+streamlit
+pandas
+pillow
+google-generativeai
+langchain
+langchain_groq
